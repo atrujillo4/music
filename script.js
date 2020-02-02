@@ -14,7 +14,7 @@ const headline = document.getElementById('headline');
 
 
 
-const songs = ['Genius', '3005', 'Fly_away'];
+const songs = ['Genius', '3005', 'Fly_Away'];
 
 // Get Song Display name
 function getDisplayName(song){
