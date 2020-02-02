@@ -20,7 +20,6 @@ const songs = ['Genius', '3005', 'Fly_Away'];
 function getDisplayName(song){
     const name = song;
     const newname = name.replace(/_/g, ' ');
-    console.log(newname);
     return newname;
 }
 
